@@ -1,0 +1,131 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+ background-color: rgba(120, 170, 170, 0.534); 
+}
+body{
+  background-color: white;
+ height: 0;
+}
+ .generateBox{
+ 
+    align-items: center;
+  background-color: burlywood;
+   border-radius: 5px;
+   height: 30px;
+   max-width: max-content;
+   min-width: 120px;
+
+} 
+.text{
+    display: block;
+    text-align: center;
+   background-color: rgb(151, 151, 212); 
+  
+    width: 190px;
+    padding: 1.5em;
+    margin-left: 220px;
+    margin-bottom: -70px;
+    border-radius: 5px;
+    max-height: 100px;
+    min-height: 100px;
+    color: rgb(18, 233, 82);
+    font-size: 2em;
+    margin-inline: auto;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px ;
+}
+.all_button{
+    margin-inline: auto;
+    margin-left: auto;
+    margin-right: auto;
+   
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: block;
+    background-color: transparent;
+   
+    
+  
+
+}
+ .Box{
+   
+   font-size: 1.2em;
+   margin: 10px;
+   border-radius: 5px;
+   background-color: burlywood;
+   height: 30px;
+  max-width:50px ; 
+  min-width: 100px;
+  box-shadow: 2px 5px 5px black;
+} 
+h2{
+  margin-top: 50px;
+  text-align: center;
+  
+  color: blueviolet;
+  font-weight: 500;
+  margin-bottom: -20px;
+ justify-content: center;
+ width: fit-content;
+  background-color: rgb(100, 129, 119);
+ border-radius: 5px;
+  margin-inline: auto;
+   /* border: 2px solid black; */
+    padding: 10px 10px 10px 10px;
+    /* margin-left: 35%;
+    margin-right: 35%; */
+    display: block;
+    box-shadow: 2px 5px rgba(163, 206, 163, 0.671);
+
+
+}
+.header{
+  min-width: 300px;
+  width: auto;
+  background-color: rgba(105, 133, 168, 0.61);
+  height: 80px;
+  border-bottom: 5px rgba(83, 81, 81, 0.644) solid;
+  border-radius: 5px ;
+ 
+  
+}
+.main{
+  max-width: 800px;
+  min-width: 300px;
+  max-height: 500px;
+  background-color: rgb(182, 147, 82);
+  display: block;
+ margin-inline: auto;
+  align-content: center;
+  border-radius: 5px;
+  margin-top: 30px;
+  position: relative;
+  z-index: -20px;
+  bottom: -20px;
+  border: outset solid rgba(224, 215, 201, 0.74);
+  box-shadow: inset 5px 2px 10px 10px 
+}
+.check_date{
+  display: block;
+  float: right;
+  
+  text-wrap: wrap;
+  color: indianred;
+  margin-right: 10px;
+ 
+}
+h5{
+  
+ text-align: end;
+ margin-top: 20px;
+ 
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  margin-inline: auto;
+}
